@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mahesh-sutar
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning AWS, Python 
-- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me maheshsutar@yahoo.com
 
 <!---
